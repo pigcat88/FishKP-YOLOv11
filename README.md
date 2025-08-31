@@ -6,4 +6,4 @@ pip install ultralytics
 </pre>
 
 #Data Setup
-📁 [Download Dataset (FishKP-Dataset)](https://drive.google.com/drive/folders/14G5qUpQH5qdSwMXRlEMci_c-Zf4z_bZS?usp=drive_link)
+📁[Download Dataset FishKP-Dataset](https://drive.google.com/drive/folders/14G5qUpQH5qdSwMXRlEMci_c-Zf4z_bZS?usp=drive_link)
