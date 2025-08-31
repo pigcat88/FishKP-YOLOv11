@@ -10,3 +10,9 @@ pip install ultralytics
 
 # Evaluation
 We are providing our pretrained model, and the evaluation code can be used without the training. [Download pretrained model](https://drive.google.com/file/d/1HfhXyYdQrOs8yc_koxVPBa4maPKwj0lc/view?usp=sharing)
+<pre>
+python val.py
+</pre>
+<pre>
+python predict.py
+</pre>
