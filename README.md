@@ -8,11 +8,15 @@ pip install ultralytics
 # Data Setup
 📁[Download Dataset FishKP-Dataset](https://drive.google.com/drive/folders/14G5qUpQH5qdSwMXRlEMci_c-Zf4z_bZS?usp=drive_link)
 
-# Evaluation
+# Download pretrained model
 We are providing our pretrained model, and the evaluation code can be used without the training. [Download pretrained model](https://drive.google.com/file/d/1HfhXyYdQrOs8yc_koxVPBa4maPKwj0lc/view?usp=sharing)
+
+# Evaluation
 <pre>
 python val.py
 </pre>
+
+# Predict
 <pre>
 python predict.py
 </pre>
